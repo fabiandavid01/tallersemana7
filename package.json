@@ -1,0 +1,23 @@
+{
+  "name": "tallersemana7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiandavid01/tallersemana7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiandavid01/tallersemana7/issues"
+  },
+  "homepage": "https://github.com/fabiandavid01/tallersemana7#readme",
+  "dependencies": {
+    "cypress": "^6.6.0",
+    "faker": "^5.4.0"
+  }
+}
