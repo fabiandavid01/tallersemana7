@@ -22,9 +22,9 @@ Para la generación aleatoria de datos, se utilizó la herramienta faker importa
 # Contenido del repositorio.
 El presente repositorio contiene un proyecto Cypress, en su interior puede ubicarse las siguientes carpetas:
 
-/tallersemana7/cypress/integration/01_PruebasAleatorias
-/tallersemana7/cypress/integration/02-PoolDeDatosAPriori
-/tallersemana7/cypress/integration/03_ PoolPseudoAleatorio
+- /tallersemana7/cypress/integration/01_PruebasAleatorias
+- /tallersemana7/cypress/integration/02-PoolDeDatosAPriori
+- /tallersemana7/cypress/integration/03_ PoolPseudoAleatorio
 
 Cada carpeta contiene 40 casos de preueba implementados de acuerdo a la estrategia de pruebas señalada en su carpeta contenedora.  Para configura el proyecto en ambiente de instalación, siga el siguiente procedimiento:
 
