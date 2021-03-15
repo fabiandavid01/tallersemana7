@@ -26,6 +26,8 @@ El presente repositorio contiene un proyecto Cypress, en su interior puede ubica
 - /tallersemana7/cypress/integration/02-PoolDeDatosAPriori
 - /tallersemana7/cypress/integration/03_ PoolPseudoAleatorio
 
+
+# Instrucciones de instalación.
 Cada carpeta contiene 40 casos de preueba implementados de acuerdo a la estrategia de pruebas señalada en su carpeta contenedora.  Para configura el proyecto en ambiente de instalación, siga el siguiente procedimiento:
 
 1. A través de una consola, genere una carpeta para descargar el proyecto.
